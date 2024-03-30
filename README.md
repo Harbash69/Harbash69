@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Oussema Hedfi from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Reactjs</p>
+<p align="left">I'm Oussema Hedfi from Tunisia<br><br>- 🔭 I’m working as Tester in ADP<br>- 📚 I'm currently learning Reactjs</p>
 
 ###
 
